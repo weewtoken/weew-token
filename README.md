@@ -1,6 +1,6 @@
 # Weew token
 
-http://weewtoken.com/
+https://weewtoken.com/
 
 Welcome to Weew token.
 
